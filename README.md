@@ -1,2 +1,2 @@
 # Python2A
-Pythonkurs 2A
+Mina uppgifter och inlämnning i kursen: Python 2A
